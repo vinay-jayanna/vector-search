@@ -1,6 +1,0 @@
-pinecone-client
-numpy
-faiss-cpu
-scikit-learn
-elasticsearch
-concurrent.futures
